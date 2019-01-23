@@ -22,7 +22,4 @@ function makeInt(a) {
 function preserveDecimal(ad) {
   parseFloat('a')
 }
-function makeInt(a) {
-  parseInt('a')
-  return a
-}
+
