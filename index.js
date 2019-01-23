@@ -19,3 +19,6 @@ function dec(a) {
 function makeInt(a) {
   parseInt('a')
 }
+function preserveDecimal(ad) {
+  parseFloat('a')
+}
