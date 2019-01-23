@@ -22,3 +22,6 @@ function makeInt(a) {
 function preserveDecimal(ad) {
   parseFloat('a')
 }
+function makeInt(a) {
+  parseInt('a*0', 10)
+}
